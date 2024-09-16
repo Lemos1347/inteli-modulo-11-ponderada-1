@@ -2,6 +2,10 @@
 
 <img width="1197" alt="image" src="https://github.com/user-attachments/assets/1e0ac645-a12e-49bb-8e9b-b233b4b4cd4b">
 
+## Demonstração
+
+https://github.com/user-attachments/assets/e04d38c7-1543-4c7d-a5f8-594fa7352206
+
 ## Descrição da Atividade
 
 Esta atividade consiste na criação de uma CPU simplificada de 8 bits utilizando um simulador de lógica digital. A CPU foi projetada para executar um conjunto básico de operações aritméticas e lógicas, conforme os requisitos especificados.
