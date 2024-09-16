@@ -1,5 +1,7 @@
 # CPU de 8 Bits - Simulação com ALU
 
+<img width="1197" alt="image" src="https://github.com/user-attachments/assets/1e0ac645-a12e-49bb-8e9b-b233b4b4cd4b">
+
 ## Descrição da Atividade
 
 Esta atividade consiste na criação de uma CPU simplificada de 8 bits utilizando um simulador de lógica digital. A CPU foi projetada para executar um conjunto básico de operações aritméticas e lógicas, conforme os requisitos especificados.
