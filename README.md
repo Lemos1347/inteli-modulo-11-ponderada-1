@@ -4,7 +4,29 @@
 
 ## Demonstração
 
+### Geral
+
 https://github.com/user-attachments/assets/0c52390a-21fa-4f19-92cc-9b169d4dce63
+
+### Soma
+
+https://github.com/user-attachments/assets/4d530ccb-a0fd-42ab-ad5b-d1b45ff8cdc1
+
+### Subtração
+
+https://github.com/user-attachments/assets/a18f4775-a494-49b3-883e-eec526e39aa9
+
+### Comparação
+
+https://github.com/user-attachments/assets/73747507-5460-41c3-a218-71d4651bc4c5
+
+### Bit shift
+
+https://github.com/user-attachments/assets/a932739f-ed3a-4d52-aae5-598d0ded4934
+
+### Multiplicação
+
+https://github.com/user-attachments/assets/0b4883ec-9c57-4aba-acdb-435753f937d4
 
 ## Descrição da Atividade
 
